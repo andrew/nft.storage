@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/ipfs-shipyard/nft.storage/compare/nft.storage-v3.0.1...nft.storage-v3.1.0) (2021-08-06)
+
+
+### Features
+
+* esbuild to build api and new tests ([#252](https://www.github.com/ipfs-shipyard/nft.storage/issues/252)) ([3cafc29](https://www.github.com/ipfs-shipyard/nft.storage/commit/3cafc29c0932b36421424827eca04323c26b22f9))
+* improvements to the setup ([#246](https://www.github.com/ipfs-shipyard/nft.storage/issues/246)) ([6a2501f](https://www.github.com/ipfs-shipyard/nft.storage/commit/6a2501f5c340af87c1571886961920280afec249))
+* update pw-test so its easier to run sw tests ([#240](https://www.github.com/ipfs-shipyard/nft.storage/issues/240)) ([5737ffc](https://www.github.com/ipfs-shipyard/nft.storage/commit/5737ffcb0323e20b31fdabdd305da075b92a9047))
+
+
+### Bug Fixes
+
+* unblock niftysave ([#257](https://www.github.com/ipfs-shipyard/nft.storage/issues/257)) ([7fc56bd](https://www.github.com/ipfs-shipyard/nft.storage/commit/7fc56bdfbbbbe6a59a1ff7df9a42c81aad100635))
+
 ### [3.0.1](https://www.github.com/ipfs-shipyard/nft.storage/compare/nft.storage-v3.0.0...nft.storage-v3.0.1) (2021-06-24)
 
 
