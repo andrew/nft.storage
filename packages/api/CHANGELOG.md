@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.3.1](https://www.github.com/ipfs-shipyard/nft.storage/compare/api-v2.3.0...api-v2.3.1) (2021-08-06)
+
+
+### Bug Fixes
+
+* only local add files smaller then 2.5MiB ([#287](https://www.github.com/ipfs-shipyard/nft.storage/issues/287)) ([a225fa8](https://www.github.com/ipfs-shipyard/nft.storage/commit/a225fa8d1580bb7db79531bfd25c1e836103f60e))
+
 ## [2.3.0](https://www.github.com/ipfs-shipyard/nft.storage/compare/api-v2.2.2...api-v2.3.0) (2021-08-06)
 
 
