@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/ipfs-shipyard/nft.storage/compare/database-v1.0.0...database-v1.1.0) (2021-08-06)
+
+
+### Features
+
+* enable niftysave ([#256](https://www.github.com/ipfs-shipyard/nft.storage/issues/256)) ([b93614e](https://www.github.com/ipfs-shipyard/nft.storage/commit/b93614ece6806611addea215726ff43f5f7f98bc))
+* implement queries to find TokenAssets by a CID and URI ([#272](https://www.github.com/ipfs-shipyard/nft.storage/issues/272)) ([bf85830](https://www.github.com/ipfs-shipyard/nft.storage/commit/bf85830e68880aba7a85e4a2b867883b769a8dd9))
+
+
+### Bug Fixes
+
+* bug with findTokenAssetsByCID endpoint ([#273](https://www.github.com/ipfs-shipyard/nft.storage/issues/273)) ([bf8b2ef](https://www.github.com/ipfs-shipyard/nft.storage/commit/bf8b2ef5ff2141e1f454b103d153f7716f5faa72))
+* niftysave pin job failures by adopting request timeouts ([#267](https://www.github.com/ipfs-shipyard/nft.storage/issues/267)) ([0bac638](https://www.github.com/ipfs-shipyard/nft.storage/commit/0bac6385ef0417a7a3453172bf3a3ed9e664f9e6))
+* unblock niftysave ([#257](https://www.github.com/ipfs-shipyard/nft.storage/issues/257)) ([7fc56bd](https://www.github.com/ipfs-shipyard/nft.storage/commit/7fc56bdfbbbbe6a59a1ff7df9a42c81aad100635))
+
 ## 1.0.0 (2021-07-12)
 
 
